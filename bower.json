@@ -1,6 +1,6 @@
 {
   "name": "geohash",
-  "main": "js/geohash.js",
+  "main": ["js/geohash.js"],
   "version": "0.6.0",
   "homepage": "https://github.com/sunng87/node-geohash",
   "authors": [
