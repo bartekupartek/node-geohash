@@ -2,7 +2,7 @@
   "name": "geohash",
   "description": "geohash",
   "main": "js/geohash.js",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "homepage": "https://github.com/sunng87/node-geohash",
   "authors": [
     "@sunng87"
